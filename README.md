@@ -2,6 +2,14 @@
 
 This repository will list and provide link for all resources needed for completing the azure 70-535 exam
 
+## Documents
+
+* [Documents for Exam Preparation](docs/README.md)
+
+## Samples
+
+* [Samples for Exam Preparation](samples/README.md)
+
 ## References
 
 * [Microsoft - Architecting Microsoft Azure Solutions](https://www.microsoft.com/en-us/learning/exam-70-535.aspx)

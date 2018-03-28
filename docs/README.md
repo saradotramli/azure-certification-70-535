@@ -1,6 +1,25 @@
-# Learning Path #
+# Documents for Exam Preparation
 
-## Architecting Microsoft Azure Solutions - Exam 70-535 ##
+## Skills Measured
+
+This exam measures your ability to accomplish the technical tasks listed below. The percentages indicate the relative weight of each major topic area on the exam. The higher the percentage, the more questions you are likely to see on that content area on the exam
+
+### Technical Tasks
+
+These contents and links have been directly taken from Microsoft website [Architecting Microsoft Azure Solutions](https://www.microsoft.com/en-us/learning/exam-70-535.aspx) and has been oraganized in a more readable way
+
+| #  | Course Group                                                                    | Weightage    |
+| -- | --------------------------------------------------------------------------------|:-------------|
+| 1  | [Design Compute Infrastructure](exam-70-535/compute-infra.md)                   | (20-25%)     |
+| 2  | [Design Data Implementation](exam-70-535/data-impl.md)                          | (15-20%)     |
+| 3  | [Design Networking Implementation](exam-70-535/network-impl.md)                 | (15-20%)     |
+| 4  | [Design Security and Identity Solutions](exam-70-535/security-identity.md)      | (20-25%)     |
+| 5  | [Design Solutions by using Platform Services](exam-70-535/platform-services.md) | (10-15%)     |
+| 6  | [Design for Operations](exam-70-535/operations.md)                              | (10-15%)     |
+
+## Learning Path (SkillMeUP)
+
+### Architecting Microsoft Azure Solutions - Exam 70-535
 
 This learning path is showing the same exam preparation contents from [SkillMeUP](https://skillmeup.com/course/bypath/architecting-azure-solutions-70-535)
 
