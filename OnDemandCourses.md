@@ -1,8 +1,8 @@
 # Learning Path #
 
-## Architecting Azure Solutions - Exam 70-535 ##
+## Architecting Microsoft Azure Solutions - Exam 70-535 ##
 
-[Skill Me UP - Architecting Azure Solutions](https://skillmeup.com/course/bypath/architecting-azure-solutions-70-535)
+This learning path is showing the same exam preparation contents from [SkillMeUP](https://skillmeup.com/course/bypath/architecting-azure-solutions-70-535)
 
 | #  | Course/Lab    | Course Name                                                        |
 | -- | --------------|:-------------------------------------------------------------------|
