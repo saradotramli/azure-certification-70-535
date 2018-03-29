@@ -3,7 +3,8 @@
 ## Design solutions using virtual machines
 
 * Design VM deployments by leveraging availability sets, fault domains, and update domains in Azure
-* Use web app for containers; design VM Scale Sets
+* Use web app for containers
+* Design VM Scale Sets
 * Design for compute-intensive tasks using Azure Batch
 * Define a migration strategy from cloud services
 * Recommend use of Azure Backup and Azure Site Recovery
