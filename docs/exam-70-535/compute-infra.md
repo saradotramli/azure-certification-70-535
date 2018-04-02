@@ -11,7 +11,7 @@
 * [Define a migration strategy from cloud services](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/on-prem-to-azure)
 * [Recommend use of Azure Backup and Azure Site Recovery](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/backup-recovery)
 
-### Chapter References
+### References
 
 * [Create a Windows virtual machine with the Azure portal](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/quick-create-portal)
 * [How to use availability sets](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/tutorial-availability-sets)
@@ -34,7 +34,7 @@
 * Design application solutions by using [Azure Logic Apps](https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-what-are-logic-apps), [Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/functions-overview), or both
 * [Determine when to use API management service](https://docs.microsoft.com/en-us/azure/api-management/api-management-key-concepts)
 
-### Chapter References
+### References
 
 * [Introducing Azure Functions](https://azure.microsoft.com/en-us/blog/introducing-azure-functions/)
 * [Azure Functions Documentation](https://docs.microsoft.com/en-us/azure/azure-functions/)
@@ -56,7 +56,7 @@
 * Consider migrating existing assets versus cloud native deployment
 * [Design lifecycle management strategies](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-reliable-services-lifecycle)
 
-### Chapter References
+### References
 
 * [Azure Container Service: the cloud’s most open option for containers](https://azure.microsoft.com/en-us/blog/azure-container-service-the-cloud-s-most-open-option-for-containers/)
 * [Azure Container Instances and container orchestrators](https://docs.microsoft.com/en-us/azure/container-instances/container-instances-orchestrator-relationship)
@@ -81,7 +81,7 @@
 * [Determine when to use a CDN](https://docs.microsoft.com/en-us/azure/cdn/cdn-overview)
 * [Determine when to use a cache, including Azure Redis cache](https://docs.microsoft.com/en-us/azure/redis-cache/cache-premium-tier-intro)
 
-### Chapter References
+### References
 
 * [Web Apps overview](https://docs.microsoft.com/en-us/azure/app-service-web/app-service-web-overview)
 * [Run a web application in multiple regions](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/managed-web-app/multi-region-web-app)
@@ -109,7 +109,7 @@
 * Design stateless components to accommodate scale
 * Design lifecycle strategy for Azure Batch
 
-### Chapter References
+### References
 
 * [High performance compute VM sizes](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/sizes-hpc?toc=%2Fazure%2Fvirtual-machines%2Fwindows%2Ftoc.json)
 * [Batch Documentation](https://docs.microsoft.com/en-us/azure/batch/)
