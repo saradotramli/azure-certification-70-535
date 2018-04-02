@@ -4,12 +4,12 @@
 
 ### Chapter
 
-* Design VM deployments by leveraging availability sets, fault domains, and update domains in Azure
-* Use web app for containers
-* Design VM Scale Sets
-* Design for compute-intensive tasks using Azure Batch
-* Define a migration strategy from cloud services
-* Recommend use of Azure Backup and Azure Site Recovery
+* [Design VM deployments by leveraging availability sets, fault domains, and update domains in Azure](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/regions-and-availability)
+* [Use web app for containers](https://docs.microsoft.com/en-us/azure/app-service/containers/app-service-linux-intro)
+* [Design VM Scale Sets](https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/virtual-machine-scale-sets-overview?toc=%2fazure%2fvirtual-machines%2fwindows%2ftoc.json)
+* [Design for compute-intensive tasks using Azure Batch](https://docs.microsoft.com/en-us/azure/batch/batch-technical-overview)
+* [Define a migration strategy from cloud services](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/on-prem-to-azure)
+* [Recommend use of Azure Backup and Azure Site Recovery](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/backup-recovery)
 
 ### Chapter References
 
@@ -29,10 +29,10 @@
 
 ### Chapter
 
-* Use Azure Functions to implement event-driven actions
-* Design for serverless computing using Azure Container Instances
-* Design application solutions by using Azure Logic Apps, Azure Functions, or both
-* Determine when to use API management service
+* [Use Azure Functions to implement event-driven actions](https://docs.microsoft.com/en-us/azure/azure-functions/functions-overview)
+* [Design for serverless computing using Azure Container Instances](https://docs.microsoft.com/en-us/azure/container-instances/container-instances-overview)
+* Design application solutions by using [Azure Logic Apps](https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-what-are-logic-apps), [Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/functions-overview), or both
+* [Determine when to use API management service](https://docs.microsoft.com/en-us/azure/api-management/api-management-key-concepts)
 
 ### Chapter References
 
@@ -46,15 +46,15 @@
 
 ### Chapter
 
-* Determine when a container-based solution is appropriate
-* Determine when container-orchestration is appropriate
-* Determine when Azure Service Fabric (ASF) is appropriate
-* Determine when Azure Functions is appropriate
-* Determine when to use API management service
+* [Determine when a container-based solution is appropriate](https://docs.microsoft.com/en-us/azure/container-instances/container-instances-overview)
+* [Determine when container-orchestration is appropriate](https://docs.microsoft.com/en-us/azure/container-instances/container-instances-orchestrator-relationship)
+* [Determine when Azure Service Fabric (ASF) is appropriate](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-overview)
+* [Determine when Azure Functions is appropriate](https://docs.microsoft.com/en-us/azure/azure-functions/functions-overview)
+* [Determine when to use API management service](https://docs.microsoft.com/en-us/azure/api-management/api-management-key-concepts)
 * Determine when Web API is appropriate
 * Determine which platform is appropriate for container orchestration
 * Consider migrating existing assets versus cloud native deployment
-* Design lifecycle management strategies
+* [Design lifecycle management strategies](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-reliable-services-lifecycle)
 
 ### Chapter References
 
@@ -67,19 +67,19 @@
 
 ### Chapter
 
-* Design Azure App Service Web Apps
+* [Design Azure App Service Web Apps](https://docs.microsoft.com/en-us/azure/app-service/app-service-web-overview)
 * Design custom web API
-* Secure Web API
+* [Secure Web API](https://docs.microsoft.com/en-us/azure/architecture/multitenant-identity/web-api)
 * Design Web Apps for scalability and performance
 * Design for high availability using Azure Web Apps in multiple regions
-* Determine which App service plan to use
+* [Determine which App service plan to use](https://docs.microsoft.com/en-us/azure/app-service/azure-web-sites-web-hosting-plans-in-depth-overview)
 * Design Web Apps for business continuity
-* Determine when to use Azure App Service Environment (ASE)
+* [Determine when to use Azure App Service Environment (ASE)](https://docs.microsoft.com/en-us/azure/app-service/environment/intro)
 * Design for API apps
-* Determine when to use API management service
+* [Determine when to use API management service](https://docs.microsoft.com/en-us/azure/api-management/api-management-key-concepts)
 * Determine when to use Web Apps on Linux
-* Determine when to use a CDN
-* Determine when to use a cache, including Azure Redis cache
+* [Determine when to use a CDN](https://docs.microsoft.com/en-us/azure/cdn/cdn-overview)
+* [Determine when to use a cache, including Azure Redis cache](https://docs.microsoft.com/en-us/azure/redis-cache/cache-premium-tier-intro)
 
 ### Chapter References
 
@@ -104,8 +104,8 @@
 
 ### Chapter
 
-* Design high-performance computing (HPC) and other compute-intensive applications using Azure Services
-* Determine when to use Azure Batch
+* [Design high-performance computing (HPC) and other compute-intensive applications using Azure Services](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/high-performance-computing)
+* [Determine when to use Azure Batch](https://docs.microsoft.com/en-us/azure/batch/batch-technical-overview)
 * Design stateless components to accommodate scale
 * Design lifecycle strategy for Azure Batch
 
