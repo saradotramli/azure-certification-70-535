@@ -20,3 +20,4 @@ This repository will list and provide link for all resources needed for completi
 * [Udemy - Architecting Microsoft Azure Solutions](https://www.udemy.com/70534-azure/)
 * [Azure Samples - GitHub](https://github.com/Azure-Samples)
 * [Microsoft Azure Documentation](https://docs.microsoft.com/en-us/azure/)
+* [Architecting Distributed Cloud Applications](https://azure.microsoft.com/en-us/training/distributed-cloud-apps/)
