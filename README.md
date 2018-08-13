@@ -18,6 +18,8 @@ This repository will list and provide link for all resources needed for completi
 * [Architecting Distributed Cloud Applications](https://azure.microsoft.com/en-us/training/distributed-cloud-apps/)
 * [Hands-on with cloud technologies from Microsoft](https://www.microsoft.com/handsonlabs)
 * [Azure Solution Architect](https://azure.microsoft.com/en-us/training/learning-paths/azure-solution-architect/)
+* [Microsoft Learning](https://github.com/MicrosoftLearning)
+* [ARCHITECTING MICROSOFT AZURE SOLUTIONS](https://microsoftlearning.github.io/20535-ArchitectingMicrosoftAzureSolutions/)
 
 ## References
 
