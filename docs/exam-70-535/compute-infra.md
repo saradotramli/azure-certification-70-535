@@ -85,7 +85,7 @@
 
 * [Web Apps overview](https://docs.microsoft.com/en-us/azure/app-service-web/app-service-web-overview)
 * [Run a web application in multiple regions](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/managed-web-app/multi-region-web-app)
-* [Documentación de Web Apps](https://docs.microsoft.com/es-es/azure/app-service/)
+* [Web Apps Documentation](https://docs.microsoft.com/en-us/azure/app-service/)
 * [Disaster recovery and high availability for applications built on Microsoft Azure](https://docs.microsoft.com/en-us/azure/architecture/resiliency/disaster-recovery-azure-applications)
 * [Create a REST service using ASP.NET Web API and SQL Database in Azure App Service](https://docs.microsoft.com/en-us/azure/app-service/app-service-web-tutorial-dotnet-sqldatabase)
 * [Business continuity and disaster recovery (BCDR): Azure Paired Regions](https://docs.microsoft.com/en-us/azure/best-practices-availability-paired-regions)
