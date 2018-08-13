@@ -23,3 +23,4 @@ This repository will list and provide link for all resources needed for completi
 * [Architecting Distributed Cloud Applications](https://azure.microsoft.com/en-us/training/distributed-cloud-apps/)
 * [YouTube Playlist - Architecting Distributed Cloud Applications](https://www.youtube.com/watch?v=xJMbkZvuVO0&list=PL9XzOCngAkqs0Q8ZRdafnSYExKQurZrBY)
 * [Azure Solution Architect](https://azure.microsoft.com/en-us/training/learning-paths/azure-solution-architect/)
+* [Hands-on with cloud technologies from Microsoft](https://www.microsoft.com/handsonlabs)
