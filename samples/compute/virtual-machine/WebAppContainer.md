@@ -35,7 +35,7 @@ az webapp start --name djangoAas --resource-group dockerDjangoWebappResourceGrou
 
 ```
 https://<app_name>.scm.azurewebsites.net/webssh/host
-The top command exposes all running processes in a container.
+The above command exposes all running processes in a container.
 ```
 
 ## Azure Container Registry
